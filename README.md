@@ -84,7 +84,6 @@
   <h2>
     If you have sth to ask , feel free to contact me.
   </h2>
-  <a href="https://gmail.com">Gmail : akiyoshinakao95911@gmail.com</a><br/>
-  <a href="https://t.me/anti_dom">Telegram : t.me/anti_dom</a>
+  <a href="https://discord.com">Discord : My@To</a><br/>
   </body>
 </html>
